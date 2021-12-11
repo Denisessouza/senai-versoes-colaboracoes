@@ -1,6 +1,41 @@
-Hello World ! Praticando ! Sábado 11/12/2021
+[33mcommit c7b4d42676e9ce194e9b9bef96146f02058303be[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Denise Souza <95714393+Denisessouza@users.noreply.github.com>
+Date:   Sat Dec 11 19:24:40 2021 -0300
 
-Segunda alteração - Teste - Não deu certo
+    terceira alteração versoes
 
-Terceira alteração. 
+[33mcommit 131337cd359aac1879a7332690cc9247e58ea5a3[m
+Author: Denise Souza <95714393+Denisessouza@users.noreply.github.com>
+Date:   Sat Dec 11 19:09:15 2021 -0300
 
+    segunda alteração no arquivo versões
+
+[33mcommit 0319284c9dd7e9df62e2466260129887fd355d9d[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Denise Souza <95714393+Denisessouza@users.noreply.github.com>
+Date:   Sat Dec 11 18:53:16 2021 -0300
+
+    alteração no arquivo versões
+
+[33mcommit d6c9aade23f34e1c9cc1abb2954ded989b7e34d6[m
+Author: Denise Souza <95714393+Denisessouza@users.noreply.github.com>
+Date:   Sat Dec 11 18:40:26 2021 -0300
+
+    meu primeiro commit
+
+[33mcommit c44d44d34d8051e57c566e7e66a38cb730bc103a[m
+Author: Denise Souza <95714393+Denisessouza@users.noreply.github.com>
+Date:   Fri Dec 10 15:32:01 2021 -0300
+
+    meu primeiro commit
+
+[33mcommit c3d55c99ade343f154fcdd4be3923c54dc019757[m
+Author: Denise Souza <95714393+Denisessouza@users.noreply.github.com>
+Date:   Thu Dec 9 15:45:58 2021 -0300
+
+    realizando uma alteração no arquivo versoes.txt
+
+[33mcommit 9ca5211a04e6aa84b5e242b755c9042fa3599d5c[m
+Author: Denise Souza <95714393+Denisessouza@users.noreply.github.com>
+Date:   Thu Dec 9 15:37:06 2021 -0300
+
+    meu primeiro commit
