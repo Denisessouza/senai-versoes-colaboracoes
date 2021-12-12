@@ -1,4 +1,5 @@
 # senai-versoes-colaboracoes
+Pasta de Atividades para a UC 7 Versionamento
 meu primeiro commit
 alteração no versões.txt
 segunda alteração no versoes.txt
